@@ -35,7 +35,7 @@ To ensure security and privacy each scientist has an off-line database and perso
 ![Researcher](/Artwork/researcher.png)
 
 ## Collaborating in the workgroup
-The first level of collaborating is within the workgroup. An intranet, hosted by the universities provides an interactive workgroup-wiki and server for the structured data and drafts.
+The first level of collaborating is within the workgroup. An intranet, hosted by the universities, provides an interactive workgroup-wiki and server for the structured data and drafts.
 ![workgroup](/Artwork/workgroup.png)
 
 ## University level and Publishing
