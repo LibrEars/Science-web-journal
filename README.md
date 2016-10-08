@@ -31,7 +31,15 @@ For a critical discussion about todays publishing see ['How The Digital Revoluti
 
 # Level of access
 ## Personal access
-![Researcher](/Artwork/researcher.png )
+![Researcher](/Artwork/researcher.png)
+
+## Collaborating in the workgroup
+![workgroup](/Artwork/workgroup.png)
+
+## University level and Publishing
+![uni](/Artwork/uni.png)
+
+##
 # Why should people join?
 Useful in daily life due to wiki, database and easy search
 
