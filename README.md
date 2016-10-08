@@ -44,5 +44,7 @@ For a critical discussion about todays publishing see ['How The Digital Revoluti
 Useful in daily life due to wiki, database and easy search
 
 # Automatic open access journal
+![aNewFormToPublish](/Artwork/aNewFormToPublish.png)
+
 # What is already out there?
 (Open access and open source)
