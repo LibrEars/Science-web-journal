@@ -31,7 +31,7 @@ For a critical discussion about todays publishing see ['How The Digital Revoluti
 
 # Level of access
 ## Personal access
-![Researcher](/Artwork/researcher.png =100x100)
+<img src="/Artwork/researcher.png" alt="Drawing" style="width: 200px;"/>
 # Why should people join?
 Useful in daily life due to wiki, database and easy search
 
