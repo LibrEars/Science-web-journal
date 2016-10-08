@@ -51,7 +51,7 @@ Useful in daily life due to interactive wiki, database and easy search
 ![aNewFormToPublish](/Artwork/aNewFormToPublish.png)
 
 # Process of transcript
-An fundamental part of science is the process of transcript. This process could be simplified by connecting its different stages into one integrated net via an systematical process. Education would benefit mostly from this. Starting from interactive wiki-books, students could read upwards the 'tree of knowledge' to their field of interest till they reach the cutting-edge research.
+An fundamental part of science is the process of transcript. This process could be simplified by connecting its different stages into one integrated net via a systematical process. Education would benefit mostly from this. Starting from interactive wiki-books, students could read upwards the 'tree of knowledge' to their field of interest till they reach the cutting-edge research.
 ![transcript](/Artwork/transcript.png)
 
 # What is already out there?
