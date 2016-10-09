@@ -1,15 +1,15 @@
 ﻿# Science-web-journal
-The aim of the project is to design a new way of scientific publishing and data handling.
-
 Please contribute to the [wiki](https://github.com/LibrEars/Science-web-journal/wiki). This project is all about collaborating! 
 
 # Motivation
-The main motivation is to improve the scientific workflow and save taxpayers money by avoiding expense produced by nowadays structures. The idea is to combine several existing concepts for collaborating to form a network 'to meet the demand for automatic information-sharing between scientists in universities and institutes around the world' in the original aim of [the birth of the World Wide Web](http://home.cern/topics/birth-web).
+This project wants to establish a new way of scientific publishing and data handling to improve scientific workflow and save taxpayers money.
 
-For a critical discussion about todays publishing see ['How The Digital Revolution Can Fix Scientific Publishing And Speed Up Discoveries'](https://techcrunch.com/2014/08/30/can-the-digital-revolution-fix-scientific-publishing-and-speed-up-discoveries/?ncid=rss)
+The tool to be created will combine several existing concepts 'to meet the demand for automatic information-sharing between scientists in universities and institutes around the world' in the original aim behind [the birth of the World Wide Web](http://home.cern/topics/birth-web).
 
-## In a nutshell:
-Grievances:
+For a critical discussion about todays publishing praxis see ['How The Digital Revolution Can Fix Scientific Publishing And Speed Up Discoveries'](https://techcrunch.com/2014/08/30/can-the-digital-revolution-fix-scientific-publishing-and-speed-up-discoveries/?ncid=rss)
+
+### In a nutshell:
+Why should todays publishing praxis be replaced:
  * Scientific workflow inefficient
  * Cost (submission/paywalls)
  * Delays
@@ -21,19 +21,20 @@ Grievances:
  * No failures published
  * Possible censorship
 
+## What is needed for todays research?
+There are things every newcomer in a field has to learn. And quite often some experiments are done independently over and over again due to the lack of an available decent transcript. The time wasted could be used for new research.
+There are many impressive examples coming out of the open-source community who show how to work efficient together - fitting each to a certain task. By combining the strengths of those approaches a joint science-net for researchers would allow to collaborate in a drastically more efficient way. With the help of modern computational approaches such a science-net would allow to create an intelligent database capable of quick search, combining data for meta-studies and giving an overview of cutting edge research.
+
+### In a nutshell:
+What we need:
+ * Collaboration
+ * Intelligent databases
+
 # Reasons to publish
-## In a nutshell:
+### In a nutshell:
  * Scientific exchange, productivity and competition
  * Reputation and proof of own workforce
  * Knowledge conservation (transcript)
-
-# What is needed for todays research?
-There are things every newcomer in a field has to learn. And quite often some experiments are done indipendently over and over again due to the lack of an available decent transcript. The time wasted could be used for new research.
-There are many impressive examples coming out of the open-source community who show how to work efficient together - fitting each to a sertain task. By combining the strengthes of those approaches a joint platform for researchers would allow to collaborate in a drastically more efficient way. With the help of modern computional aproaches such a platform would allow to create an intelligent database capable of quick search, combining data for methastudies and giving an overview of cutting edge research.
-
-## In a nutshell:
- * Collaboration
- * Intelligent databases
 
 # Process of transcript
 An fundamental part of science is the process of transcript. It could be simplified by systematical connecting its different stages into one integrated net. Education would benefit mostly from this. Starting from interactive wiki-books, students could read upwards the 'tree of knowledge' to their field of interest till they reach the cutting-edge research.
