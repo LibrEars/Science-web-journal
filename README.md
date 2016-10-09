@@ -52,6 +52,9 @@ The first level of collaborating is within the workgroup. An intranet, hosted by
 When the group thinks something is ready to publish, it releases it into the university intranet and the open accessible net. The publication is on behalf of the University or Institute to encourage high-quality publications. A peer-review from outsides can be requested.
 ![uni](/Artwork/uni.png)
 
+## World wide science-net
+![net](/Artwork/net.png “https://commons.wikimedia.org/wiki/File:Social_Network_Analysis_Visualization.png”)
+
 ## Effective search in science-net-journal
 
 # Why should people join?
