@@ -7,6 +7,7 @@ The main motivation is to improve the scientific workflow and save taxpayers mon
 For a critical discussion about todays publishing see ['How The Digital Revolution Can Fix Scientific Publishing And Speed Up Discoveries'](https://techcrunch.com/2014/08/30/can-the-digital-revolution-fix-scientific-publishing-and-speed-up-discoveries/?ncid=rss)
 
 ## In a nutshell:
+Grievances:
  * Scientific workflow inefficient
  * Cost (submission/paywalls)
  * Delays
@@ -14,8 +15,8 @@ For a critical discussion about todays publishing see ['How The Digital Revoluti
  * Subjective selection
  * Ineffective search for results
  * Lack of available research data
- * No failures published
  * Limited machine-readability
+ * No failures published
  * Possible censorship
 
 # Reasons to publish
@@ -37,7 +38,7 @@ An fundamental part of science is the process of transcript. It could be simplif
 ![transcript](/Artwork/transcript.png)
 
 # Interactive wiki/ dynamic lab book
-
+The heart of the science-web journal will be the interactive wiki or dynamic lab book (a good name has yet to be found). It will be the dayly tool of the scientist, providing the platform to insert data, evaluate them and to note down results. Combining strenghes of the wiki-concept known from [Wikipedia](https://www.wikipedia.org/), of the [jupyter notebook](https://jupyter.org/), of version control like [git](https://git-scm.com/) and the use of an intelligent database (see [discussion](https://github.com/LibrEars/Science-web-journal/wiki#automatic-information-sharing-dataset-and-machine-readability)) enables a highly efficient workflow. It will be flexible enough to allow the user a broadband choice for choosing different texteditors and data analysing languages/tools as well standardized enough to ensure fluently collaborating. The recomended data analysing language will be Python due to its richness as a fully developed programming language, community and open-source nature.
 
 # Level of access
 ## Personal access
