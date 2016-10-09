@@ -23,6 +23,7 @@ Why should todays publishing praxis be replaced:
 
 ## What is needed for todays research?
 There are things every newcomer in a field has to learn. And quite often some experiments are done independently over and over again due to the lack of an available decent transcript. The time wasted could be used for new research.
+
 There are many impressive examples coming out of the open-source community who show how to work efficient together - fitting each to a certain task. By combining the strengths of those approaches a joint science-net for researchers would allow to collaborate in a drastically more efficient way. With the help of modern computational approaches such a science-net would allow to create an intelligent database capable of quick search, combining data for meta-studies and giving an overview of cutting edge research.
 
 ### In a nutshell:
