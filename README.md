@@ -1,5 +1,7 @@
 ﻿# Science-web-journal
-The aim of the project is to design a new way of scientific data handling and publishing. Please contribute to the [wiki](https://github.com/LibrEars/Science-web-journal/wiki). This project is all about collaborating! 
+The aim of the project is to design a new way of scientific publishing and data handling.
+
+Please contribute to the [wiki](https://github.com/LibrEars/Science-web-journal/wiki). This project is all about collaborating! 
 
 # Motivation
 The main motivation is to improve the scientific workflow and save taxpayers money by avoiding expense produced by nowadays structures. The idea is to combine several existing concepts for collaborating to form a network 'to meet the demand for automatic information-sharing between scientists in universities and institutes around the world' in the original aim of [the birth of the World Wide Web](http://home.cern/topics/birth-web).
