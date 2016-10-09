@@ -38,12 +38,12 @@ What we need:
  * Reputation and proof of own workforce
  * Knowledge conservation (transcript)
 
+# Interactive wiki/ dynamic lab book
+The heart of the science-web journal will be the interactive wiki or dynamic lab book (a good name has yet to be found). It will be the dayly tool of the scientist, providing the platform to insert data, evaluate them and to note down results. Combining strenghes of the wiki-concept known from [Wikipedia](https://www.wikipedia.org/), of the [jupyter notebook](https://jupyter.org/), of version control like [git](https://git-scm.com/) and the use of an intelligent database (see [discussion](https://github.com/LibrEars/Science-web-journal/wiki#automatic-information-sharing-dataset-and-machine-readability)) enables a highly efficient workflow. It will be flexible enough to allow the user a broadband choice for choosing different texteditors and data analysing languages/tools as well standardized enough to ensure fluently collaborating. The recomended data analysing language will be Python due to its richness as a fully developed programming language, large community and its open-source nature.
+
 # Process of transcript
 An fundamental part of science is the process of transcript. It could be simplified by systematical connecting its different stages into one integrated net. Education would benefit mostly from this. Starting from interactive wiki-books, students could read upwards the 'tree of knowledge' to their field of interest till they reach the cutting-edge research.
 ![transcript](/Artwork/transcript.png)
-
-# Interactive wiki/ dynamic lab book
-The heart of the science-web journal will be the interactive wiki or dynamic lab book (a good name has yet to be found). It will be the dayly tool of the scientist, providing the platform to insert data, evaluate them and to note down results. Combining strenghes of the wiki-concept known from [Wikipedia](https://www.wikipedia.org/), of the [jupyter notebook](https://jupyter.org/), of version control like [git](https://git-scm.com/) and the use of an intelligent database (see [discussion](https://github.com/LibrEars/Science-web-journal/wiki#automatic-information-sharing-dataset-and-machine-readability)) enables a highly efficient workflow. It will be flexible enough to allow the user a broadband choice for choosing different texteditors and data analysing languages/tools as well standardized enough to ensure fluently collaborating. The recomended data analysing language will be Python due to its richness as a fully developed programming language, large community and its open-source nature.
 
 # Level of access
 ## Personal access
