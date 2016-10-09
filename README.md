@@ -27,10 +27,11 @@ There are many impressive examples coming out of the open-source community who s
 
 ### In a nutshell:
 What we need:
- * Collaboration
+ * A tool to collaborate efficient
+ * A systematical process of transcript
  * Intelligent databases
 
-# Reasons to publish
+## Reasons to publish
 ### In a nutshell:
  * Scientific exchange, productivity and competition
  * Reputation and proof of own workforce
