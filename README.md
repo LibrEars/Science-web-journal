@@ -53,7 +53,7 @@ When the group thinks something is ready to publish, it releases it into the uni
 ![uni](/Artwork/uni.png)
 
 ## World wide science-net
-![net](/Artwork/net.png “https://commons.wikimedia.org/wiki/File:Social_Network_Analysis_Visualization.png”)
+![net](/Artwork/net.png)
 
 ## Effective search in science-net-journal
 
