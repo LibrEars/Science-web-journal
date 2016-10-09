@@ -25,9 +25,19 @@ For a critical discussion about todays publishing see ['How The Digital Revoluti
  * Knowledge conservation (transcript)
 
 # What is needed for todays research?
+There are things every newcomer in a field has to learn. And quite often some experiments are done indipendently over and over again due to the lack of an available decent transcript. The time wasted could be used for new research.
+There are many impressive examples coming out of the open-source community who show how to work efficient together - fitting each to a sertain task. By combining the strengthes of those approaches a joint platform for researchers would allow to collaborate in a drastically more efficient way. With the help of modern computional aproaches such a platform would allow to create an intelligent database capable of quick search, combining data for methastudies and giving an overview of cutting edge research.
+
 ## In a nutshell:
  * Collaboration
  * Intelligent databases
+
+# Process of transcript
+An fundamental part of science is the process of transcript. It could be simplified by systematical connecting its different stages into one integrated net. Education would benefit mostly from this. Starting from interactive wiki-books, students could read upwards the 'tree of knowledge' to their field of interest till they reach the cutting-edge research.
+![transcript](/Artwork/transcript.png)
+
+# Interactive wiki/ dynamic lab book
+
 
 # Level of access
 ## Personal access
@@ -49,10 +59,6 @@ Useful in daily life due to interactive wiki, database and easy search
 
 # Automatic open access journal
 ![aNewFormToPublish](/Artwork/aNewFormToPublish.png)
-
-# Process of transcript
-An fundamental part of science is the process of transcript. This process could be simplified by connecting its different stages into one integrated net via a systematical process. Education would benefit mostly from this. Starting from interactive wiki-books, students could read upwards the 'tree of knowledge' to their field of interest till they reach the cutting-edge research.
-![transcript](/Artwork/transcript.png)
 
 # What is already out there?
 (Open access and open source)
