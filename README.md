@@ -1,12 +1,14 @@
 ﻿# Science-web-journal
-Please contribute to the [wiki](https://github.com/LibrEars/Science-web-journal/wiki). This project is all about collaborating! 
-
-# Motivation
 This project wants to establish a new way of scientific publishing and data handling to improve scientific workflow and save taxpayers money.
 
 The tool to be created will combine several existing concepts 'to meet the demand for automatic information-sharing between scientists in universities and institutes around the world' in the original aim behind [the birth of the World Wide Web](http://home.cern/topics/birth-web).
 
 For a critical discussion about todays publishing praxis see ['How The Digital Revolution Can Fix Scientific Publishing And Speed Up Discoveries'](https://techcrunch.com/2014/08/30/can-the-digital-revolution-fix-scientific-publishing-and-speed-up-discoveries/?ncid=rss)
+
+Please contribute to the [wiki](https://github.com/LibrEars/Science-web-journal/wiki). This project is all about collaborating! 
+
+Copyright (c)  2016  Mervin Seiberlich.
+Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
 ### In a nutshell:
 Why should todays publishing praxis be replaced:
