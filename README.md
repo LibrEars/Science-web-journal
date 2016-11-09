@@ -11,7 +11,7 @@ Copyright (c)  2016  Mervin Seiberlich.
 Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
 ### Motivation in a nutshell:
-Why should todays publishing praxis be replaced:
+Why should todays publishing practice be replaced:
  * Scientific workflow inefficient
  * Cost (submission/paywalls)
  * Delays
@@ -26,12 +26,12 @@ Why should todays publishing praxis be replaced:
 ## What is needed for todays research?
 There are things every newcomer in a field has to learn. And quite often some experiments are done independently over and over again due to the lack of an available decent transcript. The time wasted could be used for new research.
 
-There are many impressive examples coming out of the open-source community who show how to work efficient together - fitting each to a certain task. By combining the strengths of those approaches a joint science-net for researchers would allow to collaborate in a drastically more efficient way. With the help of modern computational approaches such a science-net would allow to create an intelligent database capable of quick search, combining data for meta-studies and giving an overview of cutting edge research.
+There are many impressive examples coming out of the open-source community who show how to work efficiently together - fitting each to a certain task. By combining the strengths of those approaches a joint science-net for researchers would allow to collaborate in a drastically more efficient way. With the help of modern computational approaches such a science-net would allow to create an intelligent database capable of quick search, combining data for meta-studies and giving an overview of cutting edge research.
 
 ### In a nutshell:
 What we need:
- * A tool to collaborate efficient
- * A systematical process of transcript
+ * A tool to collaborate efficiently
+ * A systematical process of transcription
  * Intelligent databases
 
 ## Reasons to publish
@@ -40,11 +40,11 @@ What we need:
  * Reputation and proof of own workforce
  * Knowledge conservation (transcript)
 
-# Interactive wiki/ dynamic lab book
-The heart of the science-web journal will be the interactive wiki or dynamic lab book (a good name has yet to be found). It will be the dayly tool of the scientist, providing the platform to insert data, evaluate them and to note down results. Combining strenghes of the wiki-concept known from [Wikipedia](https://www.wikipedia.org/), of the [jupyter notebook](https://jupyter.org/), of version control like [git](https://git-scm.com/) and the use of an intelligent database (see [discussion](https://github.com/LibrEars/Science-web-journal/wiki#automatic-information-sharing-dataset-and-machine-readability)) enables a highly efficient workflow. It will be flexible enough to allow the user a broadband choice for choosing different texteditors and data analysing languages/tools as well standardized enough to ensure fluently collaborating. The recomended data analysing language will be Python due to its richness as a fully developed programming language, large community and its open-source nature.
+# Interactive wiki / dynamic lab book
+The heart of the science-web journal will be the interactive wiki or dynamic lab book (a good name has yet to be found). It will be the dayly tool of the scientist, providing the platform to insert data, evaluate them and to note down results. Combining strengths of the wiki-concept known from [Wikipedia](https://www.wikipedia.org/), of the [jupyter notebook](https://jupyter.org/), of version control like [git](https://git-scm.com/) and the use of an intelligent database (see [discussion](https://github.com/LibrEars/Science-web-journal/wiki#automatic-information-sharing-dataset-and-machine-readability)) enables a highly efficient workflow. It will be flexible enough to allow the user a broadband choice for choosing different text editors and data analyzing languages/tools but even so standardized enough to ensure fluent collaborating. The recommended data analyzing language will be Python due to its richness as a fully developed programming language, large community and its open-source nature.
 
-# Process of transcript
-An fundamental part of science is the process of transcript. It could be simplified by systematical connecting its different stages into one integrated net. Education would benefit mostly from this. Starting from interactive wiki-books, students could read upwards the 'tree of knowledge' to their field of interest till they reach the cutting-edge research.
+# Process of transcription
+A fundamental part of science is the process of transcript. It could be simplified by systematically connecting its different stages into one integrated net. Especially education would benefit from this. Starting from interactive wiki-books, students could read upwards the 'tree of knowledge' to their field of interest till they reach the cutting-edge research.
 ![transcript](/Artwork/transcript.png)
 
 # Level of access
@@ -53,11 +53,11 @@ To ensure security and privacy each scientist has an off-line database and perso
 ![Researcher](/Artwork/researcher.png)
 
 ## Collaborating in the workgroup
-The first level of collaborating is within the workgroup. An intranet, hosted by the universities, provides an interactive workgroup-wiki and server for the structured data and drafts.
+The first level of collaboration is within the workgroup. An intranet, hosted by the universities, provides an interactive workgroup-wiki and servers for the structured data and drafts.
 ![workgroup](/Artwork/workgroup.png)
 
 ## University level and Publishing
-When the group thinks something is ready to publish, it releases it into the university intranet and the open accessible net. The publication is on behalf of the University or Institute to encourage high-quality publications. A peer-review from outsides can be requested.
+When the group thinks something is ready to be published, it releases it into the university intranet and the libre open access net. The publication is on behalf of the University or Institute to encourage high-quality publications. A peer-review from outsides can be requested.
 ![uni](/Artwork/uni.png)
 
 ## World wide science-net
