@@ -32,7 +32,7 @@ There are many impressive examples coming out of the open-source community that 
 What we need:
  * A tool to collaborate efficiently
  * A systematical process of transcription
- * Intelligent databases
+ * [Intelligent databases](https://github.com/LibrEars/Science-web-journal/wiki#automatic-information-sharing-dataset-and-machine-readability)
 
 ## Reasons to publish
 ### In a nutshell:
